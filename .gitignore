@@ -1,3 +1,5 @@
 **.DS_Store
 datasets/**
 models/**
+data/datasets/**
+Rplots.pdf
